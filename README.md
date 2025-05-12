@@ -10,7 +10,7 @@ Chạy trên Google Colab:
 
 [Level 3] | https://colab.research.google.com/drive/1g2Rf084fHdYFW24IRP_FTTNvNu1lKPyS?usp=sharing
 
-Chạy notebook: mở file: colab và chạy thôi!
+Chạy notebook: mở file colab và chạy thôi!
 
 📬 Liên hệ & Góp ý
 Nếu có bất kỳ câu hỏi hoặc góp ý nào, đừng ngần ngại tạo một Issue hoặc liên hệ với tôi tại:
